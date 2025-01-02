@@ -28,7 +28,7 @@
 
 ## Recent Projects
 
-### 🤖 捕获月球大模型数据合成、处理、筛选系列（待整合成一体化的低耦合系统）
+### MLB勝負模擬_機器學習專案
 <table>
   <tr>
     <td align="center">
@@ -41,7 +41,7 @@
 
 ## Social Media
 
-- 💬 LinkedIn：正经人王同学
+- 💬 LinkedIn：www.linkedin.com/in/品安-李-050a96302
 - 📫 Email：pinanleeintw@gmail.com
 
 ---
