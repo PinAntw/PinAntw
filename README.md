@@ -14,6 +14,14 @@
 
 - Master degree of Information Management, NTU
 
+<div> 
+ <h3 >📝 Latest Medium Posts</h3>
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+</div>
+
 ## Skill
 
 ### Web
