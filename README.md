@@ -18,9 +18,9 @@
  ## 📝Latest Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [【iOS App 開發】#3— 模仿上架的 App 畫面](https://pinanleeintw.medium.com/ios-app-%E9%96%8B%E7%99%BC-3-%E6%A8%A1%E4%BB%BF%E4%B8%8A%E6%9E%B6%E7%9A%84-app-%E7%95%AB%E9%9D%A2-874054d6b01d?source=rss-fc3ee530621c------2)
 - [【iOS App 開發】#1 — 使用 AI 創作人生第一個 App](https://medium.com/%E5%8F%B0%E5%A4%A7-cs-x-ios-app-%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/ios-app-%E9%96%8B%E7%99%BC-1-%E4%BD%BF%E7%94%A8-ai-%E5%89%B5%E4%BD%9C%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%80%8B-app-5f25fc1acac3?source=rss-fc3ee530621c------2)
 - [【iOS App 開發】#2 — 用形狀創作圖案](https://medium.com/%E5%8F%B0%E5%A4%A7-cs-x-ios-app-%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/ios-app-%E9%96%8B%E7%99%BC-%E7%94%A8%E5%BD%A2%E7%8B%80%E5%89%B5%E4%BD%9C%E5%9C%96%E6%A1%88-1b0051448a3f?source=rss-fc3ee530621c------2)
-- [【機器學習 林軒田】筆記Ep2 機器學習技法&lpar;一&rpar; SVM: Dual SVM](https://pinanleeintw.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E6%9E%97%E8%BB%92%E7%94%B0-%E7%AD%86%E8%A8%98ep2-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E6%8A%80%E6%B3%95-%E4%B8%80-svm-dual-svm-c2ec80475a3c?source=rss-fc3ee530621c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Skill
